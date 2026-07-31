@@ -1,7 +1,7 @@
 // team/config.js — shared app settings.
 const config = {
   appName: "Team App",
-  maxUsers: 10,
+  maxUsers: 25,
   theme: "light",
 };
 
